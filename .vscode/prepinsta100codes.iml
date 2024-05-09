@@ -1,0 +1,12 @@
+export const userData = {
+  githubUser: 'bhanurx100',
+  devUsername: "bhanurx100",
+  github: 'https://github.com/bhanurx100',
+  linkedIn: 'https://www.linkedin.com/in/bhanurx100',
+  twitter: 'https://twitter.com/Bhanu_rx100',
+  stackOverflow: 'https://stackoverflow.com/users/21628569/bhanuprasad-l',
+  leetcode: "https://leetcode.com/Bhanucode/",
+  resume: "https://drive.google.com/file/d/1IDiJNsqeCUarkKkpcnh6iaRJR_S8RN9U/view?usp=sharing",
+  skills: ['Python','React', 'NodeJS', 'Express',  'MySql', 'MongoDB', 'Postgres', 'Django', ],
+  timezone: '+5:30'
+};
