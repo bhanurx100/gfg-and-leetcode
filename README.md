@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0283-move-zeroes) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0283-move-zeroes) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Math
 |  |
 | ------- |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 <!---LeetCode Topics End-->
