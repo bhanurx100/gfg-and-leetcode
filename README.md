@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2447-merge-similar-items) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 ## Divide and Conquer
