@@ -1,34 +1,29 @@
-from typing import List
-
 class Solution:
     def setZeroes(self, matrix: List[List[int]]) -> None:
         n, m = len(matrix), len(matrix[0])
-        col0 = 1  # Flag for the first column
+        col0 = False  # Track if the first column should be zeroed
         
-        # Step 1: Traverse the matrix and mark the first row and column
+        # Step 1: Use the first row and column as markers
         for i in range(n):
-            for j in range(m):
+            if matrix[i][0] == 0:
+                col0 = True
+            for j in range(1, m):
                 if matrix[i][j] == 0:
-                    # Mark the i-th row
                     matrix[i][0] = 0
-                    # Mark the j-th column
-                    if j != 0:
-                        matrix[0][j] = 0
-                    else:
-                        col0 = 0  # Mark that the first column needs to be set to zero
+                    matrix[0][j] = 0
 
-        # Step 2: Use markers to set cells to zero from (1,1) to (n-1, m-1)
+        # Step 2: Set elements to zero based on markers, skipping the first row and column initially
         for i in range(1, n):
             for j in range(1, m):
                 if matrix[i][0] == 0 or matrix[0][j] == 0:
                     matrix[i][j] = 0
 
-        # Step 3: Set the first row to zero if needed
+        # Step 3: Update the first row if needed
         if matrix[0][0] == 0:
             for j in range(m):
                 matrix[0][j] = 0
 
-        # Step 4: Set the first column to zero if needed
-        if col0 == 0:
+        # Step 4: Update the first column if needed
+        if col0:
             for i in range(n):
                 matrix[i][0] = 0
