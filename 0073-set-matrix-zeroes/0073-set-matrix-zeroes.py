@@ -32,4 +32,3 @@ class Solution:
         if col0 == 0:
             for i in range(n):
                 matrix[i][0] = 0
-        return matrix
