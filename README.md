@@ -85,10 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0020-valid-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0020-valid-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Recursion
 |  |
 | ------- |
