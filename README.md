@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0225-implement-stack-using-queues) |
 | [1078-remove-outermost-parentheses](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Recursion
 |  |
@@ -160,4 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0073-set-matrix-zeroes) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
