@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0020-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
