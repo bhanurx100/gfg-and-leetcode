@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0268-missing-number) |
 | [2447-merge-similar-items](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2447-merge-similar-items) |
 ## Heap (Priority Queue)
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0560-subarray-sum-equals-k) |
