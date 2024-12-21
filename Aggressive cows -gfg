@@ -1,0 +1,65 @@
+
+class Solution:
+    
+    def is_feasible(self, stalls, k, min_dist):
+        """
+        Check if it's possible to place 'k' cows in the stalls such that the 
+        minimum distance between any two cows is at least 'min_dist'.
+        """
+        count = 1  # Place the first cow at the first stall
+        last_pos = stalls[0]  # The position of the last placed cow
+        
+        # Try placing the rest of the cows
+        for i in range(1, len(stalls)):
+            if stalls[i] - last_pos >= min_dist:  # Check if the distance is at least min_dist
+                count += 1  # Place a cow here
+                last_pos = stalls[i]  # Update the last position to the current stall
+                if count >= k:  # If we have placed all k cows, return True
+                    return True
+        
+        # If we couldn't place all cows, return False
+        return False
+
+    def aggressiveCows(self, stalls, k):
+        """
+        Using binary search, find the maximum minimum distance between cows 
+        that can be placed in the given stalls.
+        """
+        stalls.sort()  # Sort the stalls to ensure correct placement of cows
+        n=len(stalls)
+        # Initialize the binary search range:
+        low = 1  # The smallest possible minimum distance (minimum distance cannot be 0)
+        high = stalls[n-1] - stalls[0]  # The largest possible minimum distance
+        result = 0  # To store the result, which is the maximum minimum distance
+        
+        # Binary search on the minimum distance
+        while low <= high:
+            mid = (low + high) // 2  # Midpoint of the current search range
+            
+            # Check if it's feasible to place 'k' cows with at least 'mid' distance
+            if self.is_feasible(stalls, k, mid):
+                #result = mid  # If it's feasible, update the result
+                low = mid + 1  # Try for a larger distance (shift the search range to the right)
+            else:
+                high = mid - 1  # If it's not feasible, try a smaller distance (shift the search range to the left)
+        
+        return high  # Return the maximum feasible minimum distance
+
+
+#{ 
+ # Driver Code Starts
+#Initial Template for Python 3
+import bisect
+#Main
+if __name__ == '__main__':
+    t = int(input())
+    while t:
+        t -= 1
+        A = [int(x) for x in input().strip().split()]
+        nd = [int(x) for x in input().strip().split()]
+        D = nd[0]
+        ob = Solution()
+        ans = ob.aggressiveCows(A, D)
+        print(ans)
+        print("~")
+# } Driver Code Ends
