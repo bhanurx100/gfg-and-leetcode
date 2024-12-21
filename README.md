@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0503-next-greater-element-ii) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0907-koko-eating-bananas) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Counting
 |  |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0410-split-array-largest-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -214,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0410-split-array-largest-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
