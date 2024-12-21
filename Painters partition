@@ -1,0 +1,28 @@
+def findLargestMinDistance(boards:list, k:int):
+    # Write your code here
+    def is_feasible(mid):
+        painters_req=1
+        current_sum=0
+        for board in boards:
+            if current_sum+board>mid:
+                painters_req+=1
+                current_sum=board
+                if painters_req>k:
+                    return False
+            else:
+                    current_sum+=board
+        return True
+    low,high=max(boards),sum(boards)
+    result=high
+    while low<=high:
+        mid=(low+high)//2
+        if is_feasible(mid):
+            result=mid
+            high=mid-1
+        else:
+            low=mid+1
+    return result
+
+
+    # Return an integer
+    
