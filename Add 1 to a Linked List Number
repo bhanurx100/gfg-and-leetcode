@@ -1,0 +1,34 @@
+#User function Template for python3
+
+'''
+
+class Node:
+    def __init__(self, data):   # data -> value stored in node
+        self.data = data
+        self.next = None
+'''
+
+class Solution:
+    def addOne(self, head):
+        # Helper function for recursion
+        def addOneRecursive(node):
+            if not node:
+                return 1  # Base case: carry 1
+            
+            carry = addOneRecursive(node.next)  # Recursive call
+            summation = node.data + carry
+            node.data = summation % 10
+            return summation // 10  # Return carry
+
+        # Perform addition
+        carry = addOneRecursive(head)
+
+        # If there's still a carry, add a new node at the front
+        if carry:
+            new_node = Node(carry)
+            new_node.next = head
+            return new_node
+        
+        return head
+
+        
