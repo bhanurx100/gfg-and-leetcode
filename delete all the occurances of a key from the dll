@@ -1,0 +1,19 @@
+class Solution:
+    #Function to delete all the occurances of a key from the linked list.
+    def deleteAllOccurOfX(self, head, x):
+        # code here
+        current=head
+        while current:
+            if current.data==key:
+                if current==head:
+                    head=current.next
+                    if head:
+                        head.prev=None
+                else:
+                    if current.prev:
+                        current.prev.next=current.next
+                    if current.next:
+                        current.next.prev=current.prev
+            next_node=current.next
+            current=next_node
+        return head
