@@ -1,0 +1,19 @@
+class Solution:
+    def preToInfix(self, pre_exp):
+        stack = []
+        
+        # Traverse the expression from right to left
+        for char in reversed(pre_exp):
+            if char.isalnum():  # Operand
+                stack.append(char)
+            else:  # Operator
+                # Pop the top two elements from the stack
+                operand1 = stack.pop()
+                operand2 = stack.pop()
+                # Form the infix expression with parentheses
+                expression = f"({operand1}{char}{operand2})"
+                # Push the resulting expression back onto the stack
+                stack.append(expression)
+        
+        # The final element in the stack is the infix expression
+        return stack[-1]
