@@ -1,0 +1,18 @@
+class Solution:
+    def postToInfix(self, postfix):
+        stack = []
+        
+        # Traverse the postfix expression
+        for char in postfix:
+            if char.isalnum():  # If the character is an operand, push it to the stack
+                stack.append(char)
+            else:  # If the character is an operator
+                # Pop the top two elements from the stack
+                operand2 = stack.pop()
+                operand1 = stack.pop()
+                # Form the infix expression with parentheses
+                infix_expression = f"({operand1}{char}{operand2})"
+                stack.append(infix_expression)
+        
+        # The final element in the stack is the complete infix expression
+        return stack[-1]

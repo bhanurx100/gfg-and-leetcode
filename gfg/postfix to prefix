@@ -1,0 +1,18 @@
+class Solution:
+    def postToPre(self, post_exp):
+        stack = []
+        
+        # Traverse the postfix expression from left to right
+        for char in post_exp:
+            if char.isalnum():  # If it's an operand, push it to the stack
+                stack.append(char)
+            else:  # If it's an operator
+                # Pop the top two elements from the stack
+                operand2 = stack.pop()
+                operand1 = stack.pop()
+                # Form the prefix expression and push it back to the stack
+                prefix_expression = char + operand1 + operand2
+                stack.append(prefix_expression)
+        
+        # The final element in the stack is the prefix expression
+        return stack[-1]
