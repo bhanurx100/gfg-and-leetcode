@@ -1,17 +1,18 @@
 class Solution:
     def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        # nums1 is a subset of nums2
-        result = []
+        # Step 1: Preprocess nums2 to find next greater elements
+        next_greater = {}
+        stack = []
         
-        for i, n in list(enumerate(nums1)):
-            ind = nums2.index(n)
-            flag = False
-            for i in range(ind, len(nums2)):
-                if nums2[i] > n:
-                    result.append(nums2[i])
-                    flag = True
-                    break
-            if not flag:
-                result.append(-1)
-                
-        return result
+        for num in nums2:
+            # Maintain a decreasing stack; update next_greater when a greater element is found
+            while stack and num > stack[-1]:
+                next_greater[stack.pop()] = num
+            stack.append(num)
+        
+        # Remaining elements in the stack don't have a next greater element
+        while stack:
+            next_greater[stack.pop()] = -1
+        
+        # Step 2: Map results for nums1 using the preprocessed data
+        return [next_greater[num] for num in nums1]
