@@ -1,27 +1,36 @@
 class Solution:
-    def Sorted(self, s):
-        # Temporary stack to maintain sorted order
-        temp_stack = []
+    # Recursive function to insert an element into the stack in decreasing order
+    def insert_in_sorted_order(self, stack, element):
+        # Base case: If the stack is empty or the top of the stack is greater than or equal to the element
+        if not stack or stack[-1] <= element:
+            stack.append(element)
+            return
         
-        while s:
-            # Pop the top element from the input stack
-            current = s.pop()
-            
-            # Maintain decreasing order in the temp_stack
-            # If the top of temp_stack is smaller than current, move elements back to s
-            while temp_stack and temp_stack[-1] < current:
-                s.append(temp_stack.pop())
-            
-            # Push the current element onto temp_stack
-            temp_stack.append(current)
+        # Remove the top element and recurse
+        top = stack.pop()
+        self.insert_in_sorted_order(stack, element)
         
-        # Copy elements back to the original stack (now sorted in decreasing order)
-        while temp_stack:
-            s.append(temp_stack.pop())
+        # Put the top element back
+        stack.append(top)
+
+    # Recursive function to sort the stack in decreasing order
+    def Sorted(self, stack):
+        # Base case: If the stack is empty
+        if not stack:
+            return
+        
+        # Remove the top element
+        top = stack.pop()
+        
+        # Recursively sort the remaining stack
+        self.Sorted(stack)
+        
+        # Insert the removed element back in sorted order
+        self.insert_in_sorted_order(stack, top)
 
 # Example Usage
 if __name__ == "__main__":
-    stack = [11, 2, 32, 3, 41]
+    stack = [3, 2, 1]
     solution = Solution()
     solution.Sorted(stack)
-    print(stack)  # Output: [41, 32, 11, 3, 2]
+    print(stack)  # Expected Output: [3, 2, 1]
