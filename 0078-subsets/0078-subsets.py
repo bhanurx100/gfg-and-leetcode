@@ -1,13 +1,11 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        def helper(index,curr):
-            if index==len(nums):
-                result.append(curr[:])
-                return
-            helper(index+1,curr)
-            curr.append(nums[index])
-            helper(index+1,curr)
-            curr.pop()
-        result=[]
-        helper(0,[])
-        return result
+        n=len(nums)
+        res=[]
+        for i in range(1<<n):
+            subset=[]
+            for j in range(n):
+                if i &(1<<j):
+                    subset.append(nums[j])
+            res.append(subset)
+        return res
