@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0022-generate-parentheses) |
+| [0076-minimum-window-substring](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0402-remove-k-digits) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0966-binary-subarrays-with-sum) |
