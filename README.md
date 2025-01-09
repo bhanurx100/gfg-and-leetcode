@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1370-count-number-of-nice-subarrays](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2442-number-of-arithmetic-triplets](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0169-majority-element) |
+| [1034-subarrays-with-k-different-integers](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
