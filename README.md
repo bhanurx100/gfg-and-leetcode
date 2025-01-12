@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0239-sliding-window-maximum) |
 | [0355-design-twitter](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0621-task-scheduler) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Quickselect
 |  |
 | ------- |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0355-design-twitter](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0355-design-twitter) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0838-design-linked-list](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0838-design-linked-list) |
 | [0937-online-stock-span](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0937-online-stock-span) |
 ## Queue
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0937-online-stock-span) |
 ## Sliding Window
 |  |
@@ -415,4 +418,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0204-count-primes) |
+## Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
