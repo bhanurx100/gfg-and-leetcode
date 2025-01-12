@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1370-count-number-of-nice-subarrays](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0268-missing-number) |
 | [0621-task-scheduler](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0876-hand-of-straights) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2447-merge-similar-items](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2447-merge-similar-items) |
 ## Heap (Priority Queue)
 |  |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2442-number-of-arithmetic-triplets](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2447-merge-similar-items) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0876-hand-of-straights) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
