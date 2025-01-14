@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0496-next-greater-element-i) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0876-hand-of-straights) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0943-sum-of-subarray-minimums](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0943-sum-of-subarray-minimums) |
 ## Simulation
 |  |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0876-hand-of-straights) |
