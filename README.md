@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0257-binary-tree-paths) |
 ## Number Theory
 |  |
 | ------- |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -498,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -517,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
