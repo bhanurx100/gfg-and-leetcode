@@ -691,4 +691,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
