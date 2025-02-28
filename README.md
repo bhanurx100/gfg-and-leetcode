@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0257-binary-tree-paths) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0542-01-matrix) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0257-binary-tree-paths) |
 ## Number Theory
 |  |
