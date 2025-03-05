@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2050-count-good-numbers) |
+| [2649-count-total-number-of-colored-cells](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 ## Linked List
 |  |
 | ------- |
