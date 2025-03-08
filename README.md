@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Stack
 |  |
 | ------- |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Monotonic Queue
 |  |
 | ------- |
