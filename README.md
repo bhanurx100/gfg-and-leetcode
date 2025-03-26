@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2047-find-a-peak-element-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2227-sum-of-subarray-ranges](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2447-merge-similar-items](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2447-merge-similar-items) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3430-count-days-without-meetings](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3430-count-days-without-meetings) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2050-count-good-numbers) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Design
 |  |
