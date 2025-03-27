@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2447-merge-similar-items](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2447-merge-similar-items) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2447-merge-similar-items) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
