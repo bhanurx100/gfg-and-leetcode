@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2047-find-a-peak-element-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0268-missing-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0204-count-primes) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2442-number-of-arithmetic-triplets](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Binary Search
 |  |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0268-missing-number) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2478-longest-nice-subarray](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2478-longest-nice-subarray) |
@@ -623,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0257-binary-tree-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Number Theory
 |  |
 | ------- |
@@ -843,4 +848,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1300-critical-connections-in-a-network) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
