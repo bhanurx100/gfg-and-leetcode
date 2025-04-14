@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1656-count-good-triplets](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1656-count-good-triplets) |
 | [1753-path-with-minimum-effort](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0204-count-primes) |
+| [1656-count-good-triplets](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2442-number-of-arithmetic-triplets](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2998-count-symmetric-integers](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2998-count-symmetric-integers) |
