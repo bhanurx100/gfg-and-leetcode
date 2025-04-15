@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2280-count-good-triplets-in-an-array](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2442-number-of-arithmetic-triplets](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2447-merge-similar-items) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2280-count-good-triplets-in-an-array](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2447-merge-similar-items](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2447-merge-similar-items) |
 ## Enumeration
 |  |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2280-count-good-triplets-in-an-array](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2690-house-robber-iv) |
@@ -604,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0148-sort-list) |
+| [2280-count-good-triplets-in-an-array](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Data Stream
 |  |
 | ------- |
@@ -873,4 +878,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3548-find-the-count-of-good-integers](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3548-find-the-count-of-good-integers) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
