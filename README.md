@@ -522,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0806-domino-and-tromino-tiling](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0943-sum-of-subarray-minimums](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
