@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -736,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0131-palindrome-partitioning) |
+| [0216-combination-sum-iii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0257-binary-tree-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Number Theory
