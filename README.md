@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0085-maximal-rectangle) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0131-palindrome-partitioning) |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -752,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0131-palindrome-partitioning) |
@@ -853,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0100-same-tree) |
