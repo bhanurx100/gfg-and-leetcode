@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0204-count-primes) |
+| [0213-house-robber-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0217-contains-duplicate) |
@@ -614,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0213-house-robber-ii) |
 | [0368-largest-divisible-subset](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0416-partition-equal-subset-sum) |
