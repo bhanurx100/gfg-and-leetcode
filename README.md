@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -793,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
