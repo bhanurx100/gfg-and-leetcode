@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1073-number-of-enclaves) |
@@ -777,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0890-lemonade-change) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2032-largest-odd-number-in-string) |
