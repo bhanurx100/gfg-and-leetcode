@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3430-count-days-without-meetings) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3430-count-days-without-meetings) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2478-longest-nice-subarray](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2478-longest-nice-subarray) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
@@ -668,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3637-count-number-of-balanced-permutations) |
@@ -799,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3647-zero-array-transformation-iii) |
@@ -919,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Search Tree
