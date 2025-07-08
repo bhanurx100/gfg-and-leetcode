@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1656-count-good-triplets) |
 | [1753-path-with-minimum-effort](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2047-find-a-peak-element-ii) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -679,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
