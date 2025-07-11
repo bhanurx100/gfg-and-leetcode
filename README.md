@@ -1162,6 +1162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1182-game-play-analysis-iv](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1182-game-play-analysis-iv) |
 | [1258-article-views-i](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1258-article-views-i) |
 | [1278-product-price-at-a-given-date](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1278-product-price-at-a-given-date) |
+| [1327-last-person-to-fit-in-the-bus](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1390-average-selling-price](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
