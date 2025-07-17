@@ -1,61 +1,43 @@
-import collections
-import math
-from bisect import bisect_left
 from typing import List
+from collections import defaultdict
+from itertools import combinations
+import bisect
 
 class Solution:
     def minimumDifference(self, nums: List[int]) -> int:
         n = len(nums) // 2
         total_sum = sum(nums)
+        left, right = nums[:n], nums[n:]
+
+        def get_subset_sums(arr):
+            subset_sums = defaultdict(list)
+            length = len(arr)
+            for k in range(length + 1):
+                for comb in combinations(arr, k):
+                    subset_sums[k].append(sum(comb))
+            return subset_sums
+
+        left_sums = get_subset_sums(left)
+        right_sums = get_subset_sums(right)
+
         min_diff = float('inf')
+        for l_count in range(n + 1):
+            r_count = n - l_count
+            left_list = left_sums[l_count]
+            right_list = sorted(right_sums[r_count])
 
-        left_half = nums[:n]
-        right_half = nums[n:]
+            for s1 in left_list:
+                # Target sum1: we try to approach total_sum / 2
+                target = total_sum // 2
+                target_s2 = target - s1
 
-        def generate_sums(arr: List[int]) -> collections.defaultdict:
-            sums_by_k = collections.defaultdict(list)
-            num_elements = len(arr)
-
-            for i in range(1 << num_elements):
-                current_sum = 0
-                count = 0
-                for j in range(num_elements):
-                    if (i >> j) & 1:
-                        current_sum += arr[j]
-                        count += 1
-                sums_by_k[count].append(current_sum)
-            return sums_by_k
-
-        left_sums = generate_sums(left_half)
-        right_sums = generate_sums(right_half)
-
-        for k in left_sums:
-            left_sums[k].sort()
-        for k in right_sums:
-            right_sums[k].sort()
-
-        for i in range(n + 1):
-            j = n - i
-
-            if i not in left_sums or j not in right_sums:
-                continue
-
-            current_left_sums = left_sums[i]
-            current_right_sums = right_sums[j]
-
-            for s1 in current_left_sums:
-                target_s2 = (total_sum / 2) - s1
-
-                idx = bisect_left(current_right_sums, target_s2)
-
-                if idx < len(current_right_sums):
-                    s2 = current_right_sums[idx]
-                    current_partition_sum = s1 + s2
-                    min_diff = min(min_diff, abs(2 * current_partition_sum - total_sum))
-
-                if idx > 0:
-                    s2 = current_right_sums[idx - 1]
-                    current_partition_sum = s1 + s2
-                    min_diff = min(min_diff, abs(2 * current_partition_sum - total_sum))
+                idx = bisect.bisect_left(right_list, target_s2)
+                for i in [idx - 1, idx]:
+                    if 0 <= i < len(right_list):
+                        s2 = right_list[i]
+                        sum1 = s1 + s2
+                        sum2 = total_sum - sum1
+                        diff = abs(sum1 - sum2)
+                        min_diff = min(min_diff, diff)
 
         return min_diff
