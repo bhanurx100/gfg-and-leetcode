@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3939-process-string-with-special-operations-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3939-process-string-with-special-operations-ii) |
 ## Stack
 |  |
 | ------- |
@@ -724,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3939-process-string-with-special-operations-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/3939-process-string-with-special-operations-ii) |
 ## Union Find
 |  |
 | ------- |
