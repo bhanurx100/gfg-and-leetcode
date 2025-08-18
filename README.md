@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0621-task-scheduler) |
+| [0679-24-game](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0679-24-game) |
 | [0721-accounts-merge](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0735-asteroid-collision) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0368-largest-divisible-subset) |
+| [0679-24-game](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0867-new-21-game) |
@@ -1016,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0257-binary-tree-paths) |
+| [0679-24-game](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0679-24-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
