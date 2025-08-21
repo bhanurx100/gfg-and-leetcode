@@ -5,5 +5,6 @@ class Solution:
         for p in prices[1:]:
             if buy_price>p:
                 buy_price=p
-            profit=max(profit,p-buy_price)
+            elif p-buy_price>profit:
+                profit = p-buy_price
         return profit
