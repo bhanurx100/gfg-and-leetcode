@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1006-vowel-spellchecker](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1034-subarrays-with-k-different-integers](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0876-hand-of-straights) |
 | [0900-reordered-power-of-2](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1370-count-number-of-nice-subarrays](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -1011,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0890-lemonade-change) |
+| [1018-largest-perimeter-triangle](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1448-maximum-69-number](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1448-maximum-69-number) |
