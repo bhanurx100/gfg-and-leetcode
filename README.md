@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0062-unique-paths) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0126-word-ladder-ii) |
@@ -883,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0735-asteroid-collision) |
