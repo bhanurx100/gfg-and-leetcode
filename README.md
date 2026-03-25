@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0054-spiral-matrix) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0169-majority-element) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0126-word-ladder-ii) |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
