@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2447-merge-similar-items](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2447-merge-similar-items) |
 | [2479-meeting-rooms-iii](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2479-meeting-rooms-iii) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2429-design-a-food-rating-system](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -645,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2308-divide-array-into-equal-pairs](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2442-number-of-arithmetic-triplets](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/2442-number-of-arithmetic-triplets) |
