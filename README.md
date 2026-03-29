@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0621-task-scheduler) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0679-24-game](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0679-24-game) |
 | [0721-accounts-merge](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/0733-flood-fill) |
