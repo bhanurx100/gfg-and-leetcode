@@ -508,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1446-consecutive-characters](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1446-consecutive-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/bhanurx100/gfg-and-leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
